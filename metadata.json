@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý công việc",
+  "description": "Ứng dụng quản lý công việc với giao diện Material Design tiếng Việt, hỗ trợ thêm, sửa, xóa, tích hoàn thành, chọn ngày giờ và thông báo trực quan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
